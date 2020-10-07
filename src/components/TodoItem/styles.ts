@@ -39,6 +39,7 @@ export const ToggleStatusButton = styled.button`
   ${buttonStyle};
   border-radius: 4px 0 0 4px;
   background-color: ${({ theme }) => theme.colors.primary};
+  color: ${({ theme }) => theme.colors.common.black};
 `;
 
 export const DeleteButton = styled.button`

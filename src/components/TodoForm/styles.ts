@@ -16,7 +16,7 @@ export const AddButton = styled.button`
   align-self: stretch;
   padding: 16px;
   border-radius: 0 4px 4px 0;
-  color: ${({ theme }) => theme.colors.common.white};
+  color: ${({ theme }) => theme.colors.common.black};
   font-weight: bold;
   background-color: ${({ theme }) => theme.colors.primary};
   &:hover {

@@ -17,9 +17,9 @@ body, #root{
 }
 
 #root {
-  max-width: 1080px;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 30px;
+  padding: 0 32px;
 }
 
 body, button, input{

@@ -1,0 +1,1 @@
+export const THEME_STORAGE_LABEL = "TAGO_CHALLENGE_FRONTEND:theme";
